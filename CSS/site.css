@@ -21,7 +21,7 @@ body{
     /*color:var(--colortexto) ;
     font-size:25px;*/
     background: var(--backgroundcolor);
-    background-image: url(../media/fondo1.jpg),url(../media/fondo2.jpg);
+    background-image: url(../Media/fondo1.jpg),url(../Media/fondo2.jpg);
     background-position: left top,right bottom;
     background-repeat: no-repeat;
     background-size: inherit;
